@@ -105,6 +105,6 @@
     }));
 
     //Start the bot and extend it when it has loaded.
-    $.getScript('https://rawgit.com/Yemasthui/basicBot/master/basicBot.js', extend);
+    $.getScript('https://github.com/SiriusJackDJ/definebot/search?utf8=%E2%9C%93&q=basicbot', extend);
 
 }).call(this);
